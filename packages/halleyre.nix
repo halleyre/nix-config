@@ -31,6 +31,8 @@
     nautilus # gtk filechooser （＾～＾）work out termchooser later
     (catppuccin-gtk.override { variant = "mocha"; }) # gnome theme
 
+  # apps
+    libresprite
 
   # virtualisation / emulation
     spice
