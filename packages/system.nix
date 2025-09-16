@@ -10,7 +10,7 @@
     yazi   # file explorer
     zoxide # smart cd
 
-    greetd.tuigreet # greeter
+    tuigreet # greeter
     swaylock # screenlock
     brightnessctl
 
